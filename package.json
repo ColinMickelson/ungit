@@ -85,7 +85,7 @@
     "less": "~4.1.1",
     "mocha": "~8.4.0",
     "nodemon": "~2.0.7",
-    "npm-check-updates": "~11.5.13",
+    "npm-check-updates": "~16.10.15",
     "nyc": "~15.1.0",
     "prettier": "~2.3.0",
     "puppeteer": "~9.1.1",
